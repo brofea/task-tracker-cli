@@ -26,7 +26,9 @@
 ./task list in-progress
 ```
 
-如果您使用 Windows 系统，请将上述命令中的 `./task` 替换为 `task.exe`。
+如果您使用 Windows 系统，请将上述命令中的 `./task` 替换为 `task.exe`
+
+如果您使用 macOS 和 release 中的二进制文件，请将上述命令中的 `./task` 替换为 `./task-darwin` 或者重命名文件。
 
 ## 快速开始
 

@@ -33,6 +33,8 @@ This is an backend exercise project from [roadmap.sh](https://roadmap.sh/project
 
 If you use Windows, replace `./task` with `task.exe`.
 
+If you use macOS and the binary from the release, replace `./task` with `./task-darwin` or rename the file.
+
 ## Quick Start
 
 1. `git clone` the repository
