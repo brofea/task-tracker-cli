@@ -40,3 +40,10 @@ If you use macOS and the binary from the release, replace `./task` with `./task-
 1. `git clone` the repository
 2. Run `go build -o task` to build the application
 3. Use the commands as shown above to manage your tasks
+
+## Exercise Content
+
+- Building an application with Go
+- Implementing basic CRUD operations
+- Reading and writing JSON files for data persistence
+- Handling command-line arguments
